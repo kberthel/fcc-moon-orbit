@@ -14,5 +14,5 @@ A CSS-based animation of the Moon orbiting Earth, built for freeCodeCamp’s CSS
 [Live Demo]
 
 ## Screenshots
-![Desktop View](screenshots/desktop.png)
+![Desktop View]([screenshots/desktop.png](https://github.com/kberthel/fcc-moon-orbit/blob/main/screenshots%3Adesktop.png))
 ![Mobile View](screenshots/mobile.png)
