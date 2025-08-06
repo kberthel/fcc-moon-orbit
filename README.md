@@ -10,12 +10,12 @@ A CSS-based animation of the Moon orbiting Earth, built for freeCodeCamp’s CSS
 - CSS (Flexbox, animations, radial gradients)
 
 ## Features
-- Moon orbits Earth in a 5-second circular path (freeCodeCamp User Story #15).
+- Moon orbits Earth in a 5-second circular path.
 - Responsive design with glowing Earth and Moon.
 - Uses custom CSS variables (`--prussian-blue`, `--alabaster`) for a cohesive aesthetic.
 
 ## Demo
-[Live Demo](https://kberthel.github.io/moon-orbit) *(Replace with your GitHub Pages link after enabling)*
+[Live Demo](https://kberthel.github.io/moon-orbit)
 
 ## Screenshots
 ![Desktop View](screenshots/desktop.png)
